@@ -17,7 +17,6 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
       - [CSS Grid layout for different sections](#css-grid-layout-for-different-sections)
       - [Custom interactive elements with hover effects](#custom-interactive-elements-with-hover-effects)
     - [Continued development](#continued-development)
-    - [Useful resources](#useful-resources)
   - [Author](#author)
 
 ## Overview
@@ -121,13 +120,6 @@ In future projects, I plan to focus on:
 - Optimizing performance for faster load times
 - Exploring CSS variables for more maintainable styling
 - Adding form validation and submission functionality
-
-### Useful resources
-
-- [MDN Web Docs](https://developer.mozilla.org) - Comprehensive reference for HTML, CSS, and JavaScript
-- [CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/) - Great guide for understanding CSS Grid
-- [Kevin Powell's YouTube Channel](https://www.youtube.com/kevinpowell) - Excellent resource for CSS techniques and responsive design principles
-
 ## Author
 
 - 
